@@ -31,8 +31,8 @@
 *.out
 *.app
 
-.vscode/ 
-main.dSYM/
-a.out
-main
-Node.dSYM/
+*.vscode/ 
+*main.dSYM/
+*a.out
+*main
+*Node.dSYM/
